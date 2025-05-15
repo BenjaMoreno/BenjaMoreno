@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Benja  
 
-<!--
-**BenjaMoreno/BenjaMoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Frontend apasionado por crear experiencias web increíbles  
 
-Here are some ideas to get you started:
+💻 **Tecnologías y herramientas que uso:**  
+- 🚀 **Lenguajes:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- ⚛️ **Frameworks/Librerías:** React.js, Next.js, Vue.js, Angular  
+- 🎨 **Estilos:** CSS Modules, SASS/SCSS, TailwindCSS, Styled Components  
+- 🛠 **Herramientas:** Git, Webpack, Vite, npm/yarn  
+- 📱 **Responsive Design:** Mobile-first, Flexbox, Grid  
+- 🎛 **Otros:** Redux, Context API, RESTful APIs, GraphQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Actualmente aprendiendo:** Backend  
+
+💡 **Me encanta:**  
+- Crear interfaces intuitivas y atractivas.  
+- Optimizar el rendimiento y la experiencia de usuario (UX).  
+- Colaborar en proyectos open-source.  
+
+📫 **¡Conectemos!**  
+[![LinkedIn](https://www.linkedin.com/in/benjamorenosaez/) 
+[![Portfolio](https://portafolio-benja.netlify.app/)  
+
+ 
